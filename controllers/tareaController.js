@@ -1,4 +1,4 @@
-const Tarea = require("../models/tarea");
+const Tarea = require("../models/Tarea");
 const Proyecto = require("../models/proyecto");
 const { validationResult } = require("express-validator");
 
